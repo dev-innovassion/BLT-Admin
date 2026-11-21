@@ -1,0 +1,14 @@
+node_modules
+dist
+.DS_Store
+Thumbs.db
+.vscode
+.idea
+.env
+.env.*
+!.env.example
+server/public
+vite.config.ts.*
+*.tar.gz
+.env.remote.bak
+package-lock.json
